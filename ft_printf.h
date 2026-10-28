@@ -3,7 +3,6 @@
 
 # include <stdarg.h>
 # include <unistd.h>
-# include <stdarg.h>
 
 # define DEC "0123456789"
 # define HEX_LOW "0123456789abcdef"
